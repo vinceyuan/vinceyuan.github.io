@@ -1,0 +1,9 @@
+markdown: rdiscount
+pygments: true
+paginate: 8
+permalink: /:title
+
+title: Vince Yuan's technical blogs
+url: http://vinceyuan.github.io
+feed: /atom.xml
+author_info: <a href="http://vinceyuan.github.io/">Vince Yuan</a>
